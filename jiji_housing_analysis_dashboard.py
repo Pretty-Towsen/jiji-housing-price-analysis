@@ -9,7 +9,7 @@ import plotly.figure_factory as ff
 
 #use config page
 st.set_page_config(
-    page_title="Market_Analysis Dashboard",
+    page_title="Jiji_housing_Analysis Dashboard",
     page_icon="👨‍👩‍👧‍👦",
     layout="wide"
 )
@@ -171,7 +171,7 @@ def main():
     Region, price_title, boosting = create_sidebar_filters(df)
     #filtered_data
     filtered_df = filter_data(df, Region, price_title, boosting)
-    st.title("Market Analysis Dashboard")
+    st.title("Jiji Analysis Dashboard")
     st.markdown("---")
     #display metrics
     display_metrics(filtered_df)
