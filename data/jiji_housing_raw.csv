@@ -1,0 +1,21 @@
+title,region,region_name,region_parent_name,price_title,property_size,bedrooms,bathrooms,furnishing,is_boost
+2bdrm Block of Flats in Ojoo Abeokuta North for sale,"Ogun State, Abeokuta North",Abeokuta North,Ogun State,"₦ 7,500,000",1600,2,2,Unfurnished,False
+"Furnished 5bdrm Duplex in Hampton Bay Estate, Ikate for sale","Lekki, Ikate",Ikate,Lekki,"₦ 850,000,000",500,5,6,Furnished,vip_gold
+4bdrm Duplex in Lekki Phase 2 for sale,"Lekki, Lekki Phase 2",Lekki Phase 2,Lekki,"₦ 220,000,000",450,4,4,Semi-Furnished,premium
+Furnished 4bdrm Duplex in Lekki for sale,"Lagos State, Lekki",Lekki,Lagos State,"₦ 600,000,000",350,4,4,Furnished,enterprise
+Furnished 3bdrm Bungalow in Ijebu Ode for sale,"Ogun State, Ijebu Ode",Ijebu Ode,Ogun State,"₦ 85,000,000",600,3,3,Furnished,False
+2bdrm Apartment in Ikate for sale,"Lekki, Ikate",Ikate,Lekki,"₦ 120,000,000",500,2,2,Unfurnished,premium
+4bdrm House in Victoria Island Extension for sale,"Victoria Island, Victoria Island Extension",Victoria Island Extension,Victoria Island,"₦ 800,000,000",1200,4,4,Semi-Furnished,diamond
+"8bdrm Duplex in Ikolaba Estate, Agodi for sale","Ibadan, Agodi",Agodi,Ibadan,"₦ 250,000,000",922,8,6,Unfurnished,False
+1bdrm Block of Flats in Ikorodu for sale,"Lagos State, Ikorodu",Ikorodu,Lagos State,"₦ 230,000,000",854,1,1,Unfurnished,False
+Furnished 2bdrm Duplex in Fo1 Kubwa for sale,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),"₦ 100,000,000",1000,2,3,Furnished,vip_gold
+Furnished 3bdrm Apartment in Ikeja GRA for sale,"Ikeja, Ikeja GRA",Ikeja GRA,Ikeja,"₦ 400,000,000",200,3,3,Furnished,vip_gold
+3bdrm Bungalow in Osun State for sale,Osun State,Osun State,,"₦ 12,000,000",60,3,4,Unfurnished,False
+Studio Apartment in Owerri for sale,"Imo State, Owerri",Owerri,Imo State,"₦ 30,000,000",200,1,1,Unfurnished,False
+2bdrm Block of Flats in Maitama for sale,"Abuja (FCT), Maitama",Maitama,Abuja (FCT),"₦ 200,000,000",60,2,3,Semi-Furnished,enterprise
+4bdrm Duplex in Ikota for sale,"Lekki, Ikota",Ikota,Lekki,"₦ 350,000,000",450,4,4,Semi-Furnished,premium
+2bdrm Block of Flats in Kubwa for sale,"Abuja (FCT), Kubwa",Kubwa,Abuja (FCT),"₦ 600,000,000",1200,2,2,Unfurnished,False
+Furnished 5bdrm Duplex in Lekki Phase 2 for sale,"Lekki, Lekki Phase 2",Lekki Phase 2,Lekki,"₦ 550,000,000",600,5,5,Furnished,premium
+"7bdrm Duplex in Ochacho Estate, Idu Industrial for sale","Abuja (FCT), Idu Industrial",Idu Industrial,Abuja (FCT),"₦ 290,000,000",300,7,6,Unfurnished,False
+5bdrm Duplex in Life Camp for sale,"Gwarinpa, Life Camp",Life Camp,Gwarinpa,"₦ 280,000,000",3000,5,5,Semi-Furnished,premium
+"3bdrm House in Olayemi Estate, Erunwe for sale","Ikorodu, Erunwe",Erunwe,Ikorodu,"₦ 42,000,000",325,3,3,Unfurnished,False
